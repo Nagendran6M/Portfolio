@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Disallow admin or private routes if any
+Disallow: /api/
+Disallow: /_next/
+
+# Point to your sitemap
+Sitemap: https://nagendran-seo.vercel.app/sitemap.xml

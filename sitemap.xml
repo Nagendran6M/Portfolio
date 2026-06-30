@@ -1,17 +1,25 @@
-<url>
-  <loc>https://nagendran-seo.vercel.app/</loc>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
 
-<url>
-  <loc>https://nagendran-seo.vercel.app/about.html</loc>
-</url>
-<url>
-  <loc>https://nagendran-seo.vercel.app/skills.html</loc>
-</url>
-<url>
-  <loc>https://nagendran-seo.vercel.app/projects.html</loc>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-<url>
-  <loc>https://nagendran-seo.vercel.app/contact.html</loc>
-</url>
+  <url>
+    <loc>https://nagendran-seo.vercel.app/</loc>
+  </url>
+
+  <url>
+    <loc>https://nagendran-seo.vercel.app/about.html</loc>
+  </url>
+
+  <url>
+    <loc>https://nagendran-seo.vercel.app/skills.html</loc>
+  </url>
+
+  <url>
+    <loc>https://nagendran-seo.vercel.app/projects.html</loc>
+  </url>
+
+  <url>
+    <loc>https://nagendran-seo.vercel.app/contact.html</loc>
+  </url>
+
+</urlset>

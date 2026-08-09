@@ -1,4 +1,4 @@
-```javascript
+
 // ================================
 // MOBILE MENU / HAMBURGER
 // ================================
@@ -88,4 +88,4 @@ const obs = new IntersectionObserver(
 document.querySelectorAll('.fade-in').forEach(element => {
   obs.observe(element);
 });
-```
+
